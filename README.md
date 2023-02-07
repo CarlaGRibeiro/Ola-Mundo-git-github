@@ -3,6 +3,6 @@
 
  Repositório criado durante aula ao vivo.
 Testando locais de edição.
-Esta linha eu adicionei  diretamente no  site! Que impressionant!
-
 Aprendendo Git e GitHub. 
+
+Mantive este repositório como forma de registro do tempo em que este conhecimento foi inicialmente recebido. 
